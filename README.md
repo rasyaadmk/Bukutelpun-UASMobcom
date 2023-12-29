@@ -9,7 +9,7 @@ Bukutelpun adalah mini project aplikasi mobile yang saya kembangkan guna memenuh
 
 ### Fitur Aplikasi
 - **Homepage**
-- 
+  
 Halaman utama dimana user akan diarahkan pertama kali saat membuka aplikasi
 
 ![homepage](https://github.com/rasyaadmk/Bukutelpun-UASMobcom/assets/91830379/7e48d3e2-104e-44b0-a07b-96f9e3deb4d8)
